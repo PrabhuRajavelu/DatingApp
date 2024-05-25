@@ -61,7 +61,7 @@
         },
         "serve": {
           "options": {
-            "ssl":true,
+            "ssl":false,
             "sslCert": "",
             "sslKey": ""
           },
